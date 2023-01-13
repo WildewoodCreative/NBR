@@ -1,0 +1,118 @@
+/**
+Theme Name: Astra Child
+Author: Brainstorm Force
+Author URI: http://wpastra.com/about/
+Description: Astra is the fastest, fully customizable & beautiful theme suitable for blogs, personal portfolios and business websites. It is very lightweight (less than 50KB on frontend) and offers unparalleled speed. Built with SEO in mind, Astra comes with schema.org code integrated so search engines will love your site. Astra offers plenty of sidebar options and widget areas giving you a full control for customizations. Furthermore, we have included special features and templates so feel free to choose any of your favorite page builder plugin to create pages flexibly. Some of the other features: # WooCommerce Ready # Responsive # Compatible with major plugins # Translation Ready # Extendible with premium addons # Regularly updated # Designed, Developed, Maintained & Supported by Brainstorm Force. Looking for a perfect base theme? Look no further. Astra is fast, fully customizable and beautiful theme!
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: astra-child
+Template: astra
+*/
+
+code {
+	color: #51A0C6;
+	font-weight: 700;
+	font-family: 'open sans';
+}
+h2.hero-text {
+  font-size: 50px;
+  line-height: 54px!important;
+  font-weight: 700;
+	padding-top: 250px;
+	margin: 0;
+}
+p.hero-text {
+	margin: 6px 0 10px;
+	font-size: 30px;
+}
+h2.no-margin {
+	margin-bottom: -40px!important;
+
+}
+@media (max-width: 900px) {
+  .no-padding-mobile {
+      padding: 0px!important;
+  }
+}
+.bar-above::before {
+	content: "";
+width: 80px;
+height: 3px;
+margin-bottom: 14px;
+background: #519BC1;
+display: block;
+}
+.card-shadow {
+	box-shadow: 1px 1px 12px #EAEAEA;
+}
+div.card-shadow > p{
+		padding: 0 20px 10px;
+	margin-top: 2px;
+}
+div.card-shadow > h4 {
+		padding: 0 20px;
+}
+h4 ~ p {
+	margin-top: 2px!important;
+}
+/*fix the position of the navigation*/
+.main-header-bar {
+    position: fixed;
+    z-index:9999;
+    top: 0;
+    width: 100%;
+}
+/*adjust the padding of the site-content that comes after the navigation
+.site-content {
+    padding-top: 128px;
+}*/
+/*adjust site-content for TABLET devices <= 921px (default breakpoints)*/
+@media (max-width: 921px) {
+    .site-content {
+        padding-top: 100px;
+    }
+}
+/*adjust site-content for MOBILE devices <= 544px (default breakpoints)*/
+@media (max-width: 544px) {
+    .site-content {
+        padding-top: 100px;
+    }
+}
+/* fix-margin */
+#primary {
+  margin-top: 0px;
+  margin-bottom: 0px!important;
+}
+.content-area , .primary
+{
+  margin-top: 0px;
+  margin-bottom: 0px!important;
+}
+/* forms inputs	*/
+input[type=text] , input[type=email] , textarea {
+  border-radius: 2px !important;
+}
+div.name , div.phone {
+	padding: 10px!important;
+}
+/* Contact Form */
+	input[type=text], input[type=email], .textarea_1 {
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid grey;
+  border-radius: 2px;
+  box-sizing: border-box;
+	background-color: white ;
+}
+#name_1, #phone_1 {
+		width: 100%;
+	}
+input[type=email] {
+		width: 100%;
+	}
+.textarea_1 {
+ width: 100%;
+  height: 150px;
+}

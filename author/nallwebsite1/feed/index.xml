@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nallwebsite1 &#8211; Site Nall Building Repair</title>
+	<atom:link href="https://wildewoodcreative.github.io/NBR/author/nallwebsite1/feed/?simply_static_page=290" rel="self" type="application/rss+xml" />
+	<link>https://wildewoodcreative.github.io/NBR/</link>
+	<description></description>
+	<lastBuildDate>Thu, 05 Jan 2023 18:07:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://wildewoodcreative.github.io/NBR/wp-content/uploads/2023/01/cropped-NBR_IconLogo-32x32.png</url>
+	<title>nallwebsite1 &#8211; Site Nall Building Repair</title>
+	<link>https://wildewoodcreative.github.io/NBR/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hello world!</title>
+		<link>https://wildewoodcreative.github.io/NBR/hello-world/</link>
+					<comments>https://wildewoodcreative.github.io/NBR/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[nallwebsite1]]></dc:creator>
+		<pubDate>Thu, 05 Jan 2023 18:07:53 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://wildewoodcreative.github.io/NBR/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://wildewoodcreative.github.io/NBR/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
