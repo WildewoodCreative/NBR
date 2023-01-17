@@ -13,7 +13,7 @@ Template: astra
 code {
 	color: #51A0C6;
 	font-weight: 700;
-	font-family: 'open sans';
+	font-family: 'open sans', sans-serif;
 }
 h2.hero-text {
   font-size: 50px;
@@ -30,9 +30,9 @@ h2.no-margin {
 	margin-bottom: -40px!important;
 
 }
-@media (max-width: 900px) {
-  .no-padding-mobile {
-      padding: 0px!important;
+@media (min-width: 921px) {
+  .padding-desktop {
+      padding: 0 180px!important;
   }
 }
 .bar-above::before {
@@ -56,19 +56,27 @@ div.card-shadow > h4 {
 h4 ~ p {
 	margin-top: 2px!important;
 }
+.fix-home-icon {
+  margin-left: -4px;
+  margin-right: -6px;
+}
+@media (max-width: 900px) {
+.wp-container-23 {
+  padding-bottom: 0!important;
+}
+}
 /*fix the position of the navigation*/
+@media (min-width: 921px) {
 .main-header-bar {
     position: fixed;
     z-index:9999;
     top: 0;
     width: 100%;
 }
+}
 /*adjust the padding of the site-content that comes after the navigation
-.site-content {
-    padding-top: 128px;
-}*/
-/*adjust site-content for TABLET devices <= 921px (default breakpoints)*/
-@media (max-width: 921px) {
+.site-content */
+@media (max-width: 544px) {
     .site-content {
         padding-top: 100px;
     }
@@ -76,7 +84,7 @@ h4 ~ p {
 /*adjust site-content for MOBILE devices <= 544px (default breakpoints)*/
 @media (max-width: 544px) {
     .site-content {
-        padding-top: 100px;
+        margin-top: -100px;
     }
 }
 /* fix-margin */
