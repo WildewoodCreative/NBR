@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for Site Nall Building Repair	</title>
-	<atom:link href="/NBR/comments/feed/?simply_static_page=31" rel="self" type="application/rss+xml" />
-	<link>/NBR/</link>
+	Comments on: Hello world!	</title>
+	<atom:link href="/NBR/hello-world/feed/?simply_static_page=62" rel="self" type="application/rss+xml" />
+	<link>/NBR/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Thu, 05 Jan 2023 18:07:53 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
+		By: A WordPress Commenter		</title>
 		<link>/NBR/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
