@@ -28,7 +28,9 @@ p.hero-text {
 }
 h2.no-margin {
 	margin-bottom: -40px!important;
-
+}
+.para-heading {
+  line-height: 1.5em;
 }
 @media (min-width: 921px) {
   .padding-desktop {
@@ -42,6 +44,10 @@ height: 3px;
 margin-bottom: 14px;
 background: #519BC1;
 display: block;
+}
+.yellow-color {
+  background-color: #EAAD42;
+  border-radius: 30px
 }
 .card-shadow {
 	box-shadow: 1px 1px 12px #EAEAEA;
@@ -84,7 +90,10 @@ h4 ~ p {
 /*adjust site-content for MOBILE devices <= 544px (default breakpoints)*/
 @media (max-width: 544px) {
     .site-content {
-        margin-top: -100px;
+        margin-top: -250px;
+    }
+    .wp-image-118 {
+      background-position: 60% 10%!important;
     }
 }
 /* fix-margin */
