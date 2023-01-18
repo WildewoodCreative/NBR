@@ -50,7 +50,7 @@ display: block;
   border-radius: 30px
 }
 .card-shadow {
-	box-shadow: 1px 1px 12px #EAEAEA;
+	box-shadow: 1px 1px 12px #d6d6d6;
 }
 div.card-shadow > p{
 		padding: 0 20px 10px;
