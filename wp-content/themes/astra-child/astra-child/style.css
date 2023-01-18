@@ -90,7 +90,7 @@ h4 ~ p {
 /*adjust site-content for MOBILE devices <= 544px (default breakpoints)*/
 @media (max-width: 544px) {
     .home-header-image {
-        margin-top: -250px;
+        margin-top: -130px;
     }
     .site-content {
       margin-top: -120px;
