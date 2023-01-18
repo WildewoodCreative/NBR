@@ -50,7 +50,7 @@ display: block;
   border-radius: 30px
 }
 .card-shadow {
-	box-shadow: 1px 1px 12px #d6d6d6;
+	box-shadow: 1px 1px 12px #dadde5;
 }
 div.card-shadow > p{
 		padding: 0 20px 10px;
@@ -99,7 +99,7 @@ h4 ~ p {
       background-position: 60% 10%!important;
     }
     .wp-image-156 {
-      background-position: 40% 30%!important;
+      background-position: 10% 30%!important;
     }
 }
 @media (max-width: 544px) {
