@@ -98,6 +98,14 @@ h4 ~ p {
     .wp-image-118 {
       background-position: 60% 10%!important;
     }
+    .wp-image-156 {
+      background-position: 40% 30%!important;
+    }
+}
+@media (max-width: 544px) {
+  .wp-image-123 {
+    display:none!important;
+}
 }
 /* fix-margin */
 #primary {
