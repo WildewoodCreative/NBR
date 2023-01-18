@@ -92,6 +92,9 @@ h4 ~ p {
     .home-header-image {
         margin-top: -250px;
     }
+    .site-content {
+      margin-top: -120px;
+  }
     .wp-image-118 {
       background-position: 60% 10%!important;
     }
