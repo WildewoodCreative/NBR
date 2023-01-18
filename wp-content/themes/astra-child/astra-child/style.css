@@ -99,7 +99,7 @@ h4 ~ p {
       background-position: 60% 10%!important;
     }
     .wp-image-156 {
-      background-position: 10% 30%!important;
+      background-position: left top!important;
     }
 }
 @media (max-width: 544px) {
