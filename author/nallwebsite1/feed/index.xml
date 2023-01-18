@@ -9,8 +9,8 @@
 
 <channel>
 	<title>nallwebsite1 &#8211; Site Nall Building Repair</title>
-	<atom:link href="/NBR/author/nallwebsite1/feed/?simply_static_page=779" rel="self" type="application/rss+xml" />
-	<link>/NBR/</link>
+	<atom:link href="/author/nallwebsite1/feed/?simply_static_page=900" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 05 Jan 2023 18:07:53 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>/NBR/wp-content/uploads/2023/01/cropped-NBR_IconLogo-32x32.png</url>
+	<url>/wp-content/uploads/2023/01/cropped-NBR_IconLogo-32x32.png</url>
 	<title>nallwebsite1 &#8211; Site Nall Building Repair</title>
-	<link>/NBR/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>/NBR/hello-world/</link>
-					<comments>/NBR/hello-world/#comments</comments>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[nallwebsite1]]></dc:creator>
 		<pubDate>Thu, 05 Jan 2023 18:07:53 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/NBR/?p=1</guid>
+		<guid isPermaLink="false">/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/NBR/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
