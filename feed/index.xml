@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Site Nall Building Repair</title>
-	<atom:link href="/feed/?simply_static_page=1287" rel="self" type="application/rss+xml" />
+	<title>Nall Building &amp; Repair</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 05 Jan 2023 18:07:53 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2023/01/cropped-NBR_IconLogo-32x32.png</url>
-	<title>Site Nall Building Repair</title>
+	<title>Nall Building &amp; Repair</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
@@ -37,9 +37,12 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="/">Nall Building &amp; Repair</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="/">Nall Building &amp; Repair</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
